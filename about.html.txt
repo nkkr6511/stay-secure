@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About Us - Stay Secure</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<h1>About Stay Secure</h1>
+
+<p>
+Stay Secure Guarantee Ltd provides professional rent guarantor
+services across the United Kingdom.
+</p>
+
+<p>
+We help students, professionals and international tenants secure
+accommodation when they do not have a UK based guarantor.
+</p>
+
+</body>
+</html>
