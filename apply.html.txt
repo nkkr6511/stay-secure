@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Apply Now</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<h1>Apply For A Rent Guarantor</h1>
+
+<p>
+Complete our online application and our team will contact you shortly.
+</p>
+
+</body>
+</html>
