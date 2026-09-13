@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pricing | Stay Secure</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<section class="hero">
+<div class="container">
+<h1>Pricing</h1>
+</div>
+</section>
+
+<section class="features">
+<div class="container">
+
+<div class="cards">
+
+<div class="card">
+<h3>Up to £750 Rent</h3>
+<p>£295</p>
+</div>
+
+<div class="card">
+<h3>£751 - £1000 Rent</h3>
+<p>£395</p>
+</div>
+
+<div class="card">
+<h3>£1001 - £1500 Rent</h3>
+<p>£495</p>
+</div>
+
+<div class="card">
+<h3>Above £1500</h3>
+<p>Custom Quote</p>
+</div>
+
+</div>
+
+</div>
+</section>
+
+</body>
+</html>

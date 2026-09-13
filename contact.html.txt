@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contact Us</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<section class="hero">
+<div class="container">
+<h1>Contact Us</h1>
+
+<p>07356 022448</p>
+
+<p>info@stay-secure.co.uk</p>
+
+<p>
+Apartment 1602 Walton Heights<br>
+143 Walworth Road<br>
+London SE17 1FZ
+</p>
+
+</div>
+</section>
+
+</body>
+</html>

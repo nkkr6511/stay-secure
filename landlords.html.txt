@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Landlords & Agents</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<section class="hero">
+<div class="container">
+<h1>Landlords & Letting Agents</h1>
+<p>
+Supporting confidence throughout the tenancy application process.
+</p>
+</div>
+</section>
+
+<section class="features">
+<div class="container">
+<div class="card">
+<h3>Benefits</h3>
+<p>
+Verification checks<br>
+Application review<br>
+Dedicated support
+</p>
+</div>
+</div>
+</section>
+
+</body>
+</html>

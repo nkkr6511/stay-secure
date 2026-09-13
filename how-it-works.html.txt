@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How It Works | Stay Secure Guarantee Ltd</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+<div class="container">
+<div class="logo">
+<img src="images/logo.png" alt="Stay Secure">
+</div>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="students.html">Students</a>
+<a href="professionals.html">Professionals</a>
+<a href="pricing.html">Pricing</a>
+<a href="faq.html">FAQ</a>
+<a href="contact.html">Contact</a>
+</nav>
+</div>
+</header>
+
+<section class="hero">
+<div class="container">
+<h1>How It Works</h1>
+<p>Simple, secure and straightforward.</p>
+</div>
+</section>
+
+<section class="features">
+<div class="container">
+
+<div class="cards">
+
+<div class="card">
+<h3>Step 1</h3>
+<p>Complete our online enquiry form.</p>
+</div>
+
+<div class="card">
+<h3>Step 2</h3>
+<p>Provide identity and supporting documents.</p>
+</div>
+
+<div class="card">
+<h3>Step 3</h3>
+<p>Application review and verification.</p>
+</div>
+
+<div class="card">
+<h3>Step 4</h3>
+<p>Receive your Stay Secure Passport™.</p>
+</div>
+
+</div>
+
+</div>
+</section>
+
+</body>
+</html>

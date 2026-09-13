@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Students | Stay Secure</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+<div class="container">
+<nav>
+<a href="index.html">Home</a>
+<a href="contact.html">Apply Now</a>
+</nav>
+</div>
+</header>
+
+<section class="hero">
+<div class="container">
+<h1>Student Rent Guarantor Service</h1>
+<p>Helping UK and international students secure accommodation.</p>
+</div>
+</section>
+
+<section class="features">
+<div class="container">
+
+<div class="card">
+<h3>Suitable For</h3>
+<p>
+UK Students<br>
+International Students<br>
+Postgraduate Students
+</p>
+</div>
+
+</div>
+</section>
+
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>FAQ | Stay Secure</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<section class="hero">
+<div class="container">
+<h1>Frequently Asked Questions</h1>
+</div>
+</section>
+
+<section class="features">
+<div class="container">
+
+<div class="card">
+<h3>How long does approval take?</h3>
+<p>Typically within a few working days.</p>
+</div>
+
+<div class="card">
+<h3>Do I need a UK guarantor?</h3>
+<p>Please contact us to discuss eligibility.</p>
+</div>
+
+<div class="card">
+<h3>What documents are required?</h3>
+<p>ID and supporting documentation may be requested.</p>
+</div>
+
+</div>
+
+</div>
+</section>
+
+</body>
+</html>

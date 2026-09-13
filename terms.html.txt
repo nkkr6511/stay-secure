@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Terms & Conditions</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<section class="hero">
+<div class="container">
+<h1>Terms & Conditions</h1>
+</div>
+</section>
+
+<section class="features">
+<div class="container">
+
+<div class="card">
+
+<p>
+STAY SECURE GUARANTEE LTD
+Company Number: 17420552
+</p>
+
+<p>
+Use of this website constitutes acceptance of these terms.
+</p>
+
+<p>
+Submission of an enquiry does not guarantee approval or acceptance.
+</p>
+
+</div>
+
+</div>
+</section>
+
+</body>
+</html>

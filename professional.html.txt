@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Professionals | Stay Secure</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<section class="hero">
+<div class="container">
+<h1>Professional Tenant Support</h1>
+<p>
+Helping working professionals meet landlord requirements.
+</p>
+</div>
+</section>
+
+<section class="features">
+<div class="container">
+<div class="card">
+<h3>Who We Help</h3>
+<p>
+Professionals<br>
+Contract Workers<br>
+Relocating Employees
+</p>
+</div>
+</div>
+</section>
+
+</body>
+</html>
